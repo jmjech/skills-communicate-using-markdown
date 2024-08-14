@@ -1,3 +1,8 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jmjech/skills-communicate-using-markdown)
+
+
+
+
 # Header 1
 ## Header 2
 ### Header 3
