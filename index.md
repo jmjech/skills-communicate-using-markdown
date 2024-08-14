@@ -10,4 +10,18 @@ Regular text
 
 <!--- this is a comment--->
 
+```
+print('Hello, World!')
+```
 
+**Bold text**  
+
+*italicized text*  
+***bold italics***  
+
+☣️
+
+# Task List
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
